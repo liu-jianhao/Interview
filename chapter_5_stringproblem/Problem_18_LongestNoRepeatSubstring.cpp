@@ -26,7 +26,7 @@ int maxUnique(string str)
 
 int main()
 {
-    string str = "aabcadsf";
+    string str = "aabaviddo";
     cout << str << endl;
     cout << maxUnique(str) << endl;
     return 0;
