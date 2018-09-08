@@ -8,6 +8,7 @@ all:
 	g++ -g -Wall -o Problem_08_SmallerEqualBigger Problem_08_SmallerEqualBigger.cpp
 	g++ -g -Wall -o Problem_09_CopyListWithRandom Problem_09_CopyListWithRandom.cpp
 	g++ -g -Wall -o Problem_10_AddTwoLinkedLists Problem_10_AddTwoLinkedLists.cpp
+	g++ -g -Wall -o Problem_12_ConvertEveryKNodesInList Problem_12_ConvertEveryKNodesInList.cpp
 	g++ -g -Wall -o Problem_13_RemoveRepetition Problem_13_RemoveRepetition.cpp
 	g++ -g -Wall -o Problem_14_RemoveGivenValue Problem_14_RemoveGivenValue.cpp
 	g++ -g -Wall -o Problem_16_ListSelectionSort Problem_16_ListSelectionSort.cpp
@@ -22,4 +23,5 @@ clean:
 		Problem_05_ReversePartList Problem_07_IsPalindromeList Problem_08_SmallerEqualBigger \
 		Problem_09_CopyListWithRandom Problem_10_AddTwoLinkedLists Problem_14_RemoveGivenValue \
 		Problem_13_RemoveRepetition Problem_19_MergeTwoLinkedLists Problem_16_ListSelectionSort \
-		Problem_17_RemoveNodeWired Problem_18_InsertNumToCircularList Problem_20_RelocateLinkedList
+		Problem_17_RemoveNodeWired Problem_18_InsertNumToCircularList Problem_20_RelocateLinkedList \
+		Problem_12_ConvertEveryKNodesInList
